@@ -1,0 +1,2 @@
+# frontEnd
+Componente Angular.
